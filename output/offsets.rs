@@ -29,7 +29,7 @@ pub mod cs2_dumper {
             pub const dwBuildNumber: usize = 0x541BE4;
             pub const dwNetworkGameClient: usize = 0x540CE0;
             pub const dwNetworkGameClient_clientTickCount: usize = 0x368;
-            pub const dwNetworkGameClient_deltaTick: usize = 0x27C;
+            pub const dwNetworkGameClient_deltaTick: usize = 0x244;
             pub const dwNetworkGameClient_isBackgroundMap: usize = 0x281447;
             pub const dwNetworkGameClient_localPlayer: usize = 0xF0;
             pub const dwNetworkGameClient_maxClients: usize = 0x238;

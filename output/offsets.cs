@@ -26,7 +26,7 @@ namespace CS2Dumper.Offsets {
         public const nint dwBuildNumber = 0x541BE4;
         public const nint dwNetworkGameClient = 0x540CE0;
         public const nint dwNetworkGameClient_clientTickCount = 0x368;
-        public const nint dwNetworkGameClient_deltaTick = 0x27C;
+        public const nint dwNetworkGameClient_deltaTick = 0x244;
         public const nint dwNetworkGameClient_isBackgroundMap = 0x281447;
         public const nint dwNetworkGameClient_localPlayer = 0xF0;
         public const nint dwNetworkGameClient_maxClients = 0x238;
