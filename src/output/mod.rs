@@ -183,7 +183,7 @@ impl<'a> Output<'a> {
 
     fn write_banner(&self, fmt: &mut Formatter<'_>) -> Result<()> {
         writeln!(fmt, "// Generated using https://github.com/a2x/cs2-dumper")?;
-        writeln!(fmt, "// {}\n", self.timestamp)?;
+        //writeln!(fmt, "// {}\n", self.timestamp)?;
 
         Ok(())
     }
